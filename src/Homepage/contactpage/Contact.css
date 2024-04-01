@@ -1,0 +1,77 @@
+/* styles.css */
+
+/* Style for the container */
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Style for the headings */
+  .contact-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for contact details */
+  .contact-detail {
+    margin-bottom: 20px;
+  }
+  
+  /* Style for phone number */
+  .phone-number {
+    color: #007bff; /* blue color */
+  }
+  
+  /* Style for email */
+  .email {
+    color: #28a745; /* green color */
+  }
+  
+  /* Style for location */
+  .location {
+    color: #dc3545; /* red color */
+  }
+  
+  .bdy {
+    text-align: left;
+    font-size: 25px;
+ 
+    background: linear-gradient(#694AB0, #2B2044);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: wave 2000ms ease infinite alternate;
+  }
+
+  .mar {
+
+    margin-top: 18%;
+  }
+  .para {
+
+    color: black;
+    font-weight: 400;
+    line-height: 1.6;
+    margin-top: 1px;
+    font-size: 15px;
+    width: 76%;
+  }
+  .center {
+
+    display: grid;
+    justify-content: center !important;
+    align-items: center !important;
+    
+    
+  }
+  .tty234 {
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    /* column-gap: 2%; */
+  }
+
+  .home4 {
+    margin-top: 3%;
+  }

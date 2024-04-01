@@ -1,0 +1,152 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    
+  }
+
+  
+  /* .container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  } */
+  .bg {
+    /* width: 26%; */
+    /* border: 2px solid black; */
+   
+    padding: 45px;
+    /* margin-top: 4%; */
+display: grid;
+justify-content: end;
+/* align-items: center; */
+    /* border-radius: 55px; */
+    /* margin-top: 20px; */
+  }
+  .bg1 {
+
+    /* width: 50%; */
+    padding-top: 2% !important;
+    padding: 45px;
+    display: grid;
+justify-content: end;
+padding-top: 2% !important;
+    /* margin-top: 20px !important; */
+  }
+  h2 ,.subhead {
+    text-align: center;
+    background: linear-gradient(to right, rgba(228, 75, 228, 0.518) 0%, rgba(225, 255, 255, 0.5) 20%, rgba(255, 255, 255, 0) 61%), linear-gradient(rgb(97, 183, 217) 52%, rgb(224, 246, 255) 60%, rgb(78, 99, 132) 61%);
+    background-clip: text;
+    font-size: 40px;
+    font-weight: 800;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: wave 2000ms ease infinite alternate;
+
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px !important;
+  }
+  
+  input,
+  textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    /* border: none; */
+    outline: none;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    background: transparent;
+    color: rgb(14, 14, 14);
+  }
+  
+  input[type="submit"] {
+    background-color: rgb(97, 189, 238);
+    color: rgb(15, 15, 15);
+    cursor: pointer;
+    font-weight: 800;
+    /* border: none; */
+  }
+  label  {
+    /* color: rgb(17, 16, 16); */
+    font-weight: bold;
+    text-align: left;
+    background: linear-gradient(#694AB0,#2B2044);
+    background-clip: text;
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: wave 2000ms ease infinite alternate;
+  }
+  input[type="submit"]:hover {
+    background-color: #04e6f683;
+    font-weight: 800;
+  }
+  
+  .image-upload {
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+  }
+  
+  .image-upload input[type='file'] {
+    position: absolute;
+    font-size: 100px;
+    opacity: 0;
+    right: 0;
+    top: 0;
+  }
+  
+  .image-upload label {
+    display: block;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .image-upload label:hover {
+    background-color: #45a049;
+  }
+  
+  .submit-message {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+.Mainform {
+
+  background-image: url('../Register/remobg 3.png');
+  width: 100%;
+  height: 729px;
+  background-repeat: no-repeat;
+}
+.Mainform1 {
+
+  background-image: url('../Register/remobg 3.png');
+  width: 100%;
+  height: 729px;
+  background-repeat: no-repeat;
+}
+
+
+.npm {
+
+  background-color: skyblue;
+}
+.npm12 {
+
+  background-color: skyblue;
+  color: black;
+  font-weight: 800;
+  border: none;
+
+}

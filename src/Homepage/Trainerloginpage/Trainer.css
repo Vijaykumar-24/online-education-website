@@ -1,0 +1,158 @@
+.rrr {
+
+    background-image: url('./Frame 21.png');
+    background-repeat: no-repeat;
+    width: 63%;
+    margin-top: 6.5%;
+    /* border: 1px solid black; */
+    /* padding: 50%; */
+    /* height: 73vh; */
+    height: 75vh;
+    border: 2px solid #F0F4F3;
+    border-radius: 20px;
+   
+    /* background-color: aqua; */
+   
+}
+/* .rrr1 {
+   
+
+    background-color: ;
+    height: 100vh;
+} */
+.font {
+
+    font-size: 37px;
+    margin-top: 8.5%;
+    margin-left: 24%;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    color: #38B593;
+}
+.font1 {
+    font-size: 35px;
+    margin-top: 17%;
+    margin-left: 10%;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    color: #38B593;
+
+}
+.size {
+
+    width: 30px;
+    height: 30px;
+    
+    cursor: pointer;
+}
+
+.div34 {
+
+    column-gap: 10px;
+    margin-top: 6%;
+    margin-left: 44%;
+    
+}
+.parat {
+
+    font-size: 12px;
+    color: #9A9A9A;
+    margin-left: 38%;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+    /* margin-top: 4%; */
+
+.int {
+
+    width: 299px;
+    font-size: 13px;
+    height: 47px;
+    margin-left: 25%;
+    padding-left: 10%;
+    background-color: #F4F8F5;
+    outline: none;
+    border: none;
+    position: relative;
+}
+
+.mmm34 {
+
+    position: absolute;
+    font-size: 16px;
+    margin-left: 8.5%;
+    z-index: 5;
+    margin-top: 1.8%;
+}
+.mmm35 {
+
+    position: absolute;
+    font-size: 16px;
+    margin-left: 8.5%;
+    z-index: 5;
+    margin-top: 1.8%;
+}
+.mmm36 {
+
+    position: absolute;
+    font-size: 16px;
+    margin-left: 8.5%;
+    z-index: 5;
+    margin-top: 1.8%;
+}
+.design {
+
+    background-color: #38B593;
+    color: white;
+    width: 160px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: bold;
+    border: none;
+    margin-left: 41%;
+    padding-top: 0.8%;
+    margin-top: 5%;
+}
+.contex {
+    line-height: 70px;
+}
+.moad {
+    font-size: 28px ;
+    font-weight: bold;
+    color: white;
+    font-family: 'Montserrat';
+    margin-top: 50%;
+    margin-left: 15%;
+
+}
+.part123 {
+
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Montserrat';
+    letter-spacing: 2px;
+    margin-left: -15px;
+    line-height: 23px;
+    margin-top: 5%;
+}
+.bbb {
+
+    column-gap: 0%;
+}
+.design1 {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    width: 160px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: bold;
+    /* border: none; */
+    margin-left: 27%;
+    padding-top: 0.8%;
+    margin-top: 4%;
+
+}
